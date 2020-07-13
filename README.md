@@ -1,8 +1,8 @@
-# Entaglement Witnessed in the Human Brain
+# Entanglement Witnessed in the Human Brain
 This is the repository containing the MRI files and scripts used to analysed the data
 
 
-It contains the main code to load the data and calculate the peak statistics of the IZQC signal. The scriptIZQC does the job and calls the other functions which will be needed depending on the dataset that we are loading. 
+It contains the main code to load the data and calculate the peak statistics of the ZQC signal. The scriptIZQC does the job and calls the other functions which will be needed depending on the dataset that we are loading. 
 
 The data for the paper can be found at:
 
