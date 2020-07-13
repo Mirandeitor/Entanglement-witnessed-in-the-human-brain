@@ -1,4 +1,4 @@
-# iZQC-project
+# Entaglement Witnessed in the Human Brain
 This is the repository containing the MRI files and scripts used to analysed the data
 
 
